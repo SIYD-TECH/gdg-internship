@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Hero() {
   return (
-    <section className="flex flex-col items-center justify-center py-30 px-6 text-center bg-slate-50 border-b border-blue-50">
+    <section className="flex flex-col items-center justify-center py-30 px-6 text-center bg-slate-200 border-b border-blue-50">
       <span className="px-4 py-1.5 rounded-full text-sm font-medium bg-blue-100 text-blue-700 mb-6">
         New: 2026 Dev Tools Added
       </span>
