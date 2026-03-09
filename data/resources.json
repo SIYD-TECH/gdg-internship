@@ -1,0 +1,77 @@
+[
+  {
+    "slug": "react",
+    "name": "React.js",
+    "description": "The most popular JavaScript library for building user interfaces. Maintained by Meta."
+  },
+  {
+    "slug": "nextjs",
+    "name": "Next.js",
+    "description": "The React framework for the web, enabling server-side rendering and static site generation."
+  },
+  {
+    "slug": "tailwind-css",
+    "name": "Tailwind CSS",
+    "description": "A utility-first CSS framework for rapidly building custom user interfaces without leaving your HTML."
+  },
+  {
+    "slug": "typescript",
+    "name": "TypeScript",
+    "description": "A strongly typed programming language that builds on JavaScript, giving you better tooling at any scale."
+  },
+  {
+    "slug": "framer-motion",
+    "name": "Framer Motion",
+    "description": "A production-ready motion library for React that makes high-quality animations simple to implement."
+  },
+  {
+    "slug": "shadcn-ui",
+    "name": "shadcn/ui",
+    "description": "Beautifully designed components that you can copy and paste into your apps. Built with Radix and Tailwind."
+  },
+  {
+    "slug": "supabase",
+    "name": "Supabase",
+    "description": "The open-source Firebase alternative. Provides a database, authentication, and real-time subscriptions."
+  },
+  {
+    "slug": "prisma",
+    "name": "Prisma",
+    "description": "A next-generation Node.js and TypeScript ORM that makes database access easy and type-safe."
+  },
+  {
+    "slug": "tanstack-query",
+    "name": "TanStack Query",
+    "description": "Powerful asynchronous state management for TS/JS, making fetching and caching data a breeze."
+  },
+  {
+    "slug": "vercel",
+    "name": "Vercel",
+    "description": "The platform for frontend developers, providing the speed and reliability needed to deploy instantly."
+  },
+  {
+    "slug": "github",
+    "name": "GitHub",
+    "description": "The world's leading AI-powered developer platform where millions of developers build and maintain software."
+  },
+  {
+    "slug": "figma",
+    "name": "Figma",
+    "description": "The collaborative interface design tool used by teams to create, prototype, and hand off web designs."
+  },
+  {
+    "slug": "postman",
+    "name": "Postman",
+    "description": "An API platform for developers to design, build, test, and iterate on their APIs efficiently."
+  },
+  {
+    "slug": "lucide-icons",
+    "name": "Lucide Icons",
+    "description": "A beautiful and consistent icon toolkit made by the community for modern web applications."
+  },
+  {
+    "slug": "npm",
+    "name": "npm",
+    "description": "The default package manager for Node.js and the world's largest software registry for JavaScript."
+  }
+]
