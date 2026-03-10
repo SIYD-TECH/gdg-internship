@@ -1,5 +1,6 @@
 import { promises as fs } from "fs";
 import Link from "next/link";
+import { notFound } from "next/navigation";
 
 interface Resource {
   slug: string;
@@ -21,6 +22,8 @@ const ResourceDetails = async ({
   const resources: Resource[] = JSON.parse(file);
 
   const resource = resources.find((item) => item.slug === slug);
+
+  if (!resource) notFound();
 
   return (
     <>
