@@ -11,7 +11,7 @@ export default async function ResourcesPage() {
     <main className="p-10 bg-slate-50 min-h-screen">
       <h1 className="text-3xl font-bold mb-8">All Resources</h1>
 
-      <div className="grid px-30 grid-cols-1 md:grid-cols-3 gap-6">
+      <div className="grid md:px-30 grid-cols-1 md:grid-cols-3 gap-6">
         {allResources.map((item: any) => (
           <div
             key={item.slug}
